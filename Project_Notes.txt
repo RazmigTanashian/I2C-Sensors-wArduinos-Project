@@ -1,0 +1,14 @@
+//Photo-resistor
+//Ultra Sonic Sensor
+//Thermostat -> Buzzer -> Red LED
+//Tilt Switch
+//LCD to display stats
+
+- PR to guage light levels in room
+- Sensor to tell if someone is plugging or unplugging things -> buzz if so
+- Thermostat for PC temperature -> Buzz if over X -> blink Red LED
+- Gyroscope to tell if tower is shaking around -> buzz if so -> blink Red LED 
+
+Display all these^ stats on the lcd.
+
+Communicate data to the arduino via I2C.
