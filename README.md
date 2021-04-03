@@ -8,8 +8,4 @@ It acted as an I2C device that would collect data from all the sensors and relay
 After the master Arduino receives the data, it then will activate the active buzzer and red LED if some values from the sensors were too high/low. I took advantage of
 the I2C LCD as a way to display the data to a user. 
 
-   Master Arduino
-   /            \
-Slave Arduino    LCD
-    |
-Sensors
+Master Arduino, Slave Arduino, I2C LCD, DHT11 Thermostat, Tilt-Switch, Photo-Resistor, HC-SR04, Active Buzzer & Red LED
