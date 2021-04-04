@@ -1,5 +1,5 @@
 # I2C-Sensors-wArduinos-Project
-Using slave Arduino as an I2c device to gather data for a master Arduino
+Using slave Arduino as an I2c device to gather data for a master Arduino.
 
 
 I was in the need of many sensors that supported I2C for the purpose of not using so many GPIO pins on the Arduino Uno. None of the
